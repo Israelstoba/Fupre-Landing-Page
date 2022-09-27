@@ -4,9 +4,15 @@
   margin: 0;
   box-sizing: border-box;
 }
+html {
+  height: 100%;
+}
 body {
   color: #555d;
   font-family: "Happy Monkey", cursive;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
 }
 a {
   text-decoration: none;
@@ -66,6 +72,7 @@ img {
     font-family: "Happy monkey", cursive;
     // font-family: "Nunito", cursive;
     margin: 2rem 0;
+    line-height: 0.9;
   }
 
   .hero-text {
@@ -87,12 +94,8 @@ img {
   color: #fff;
   text-align: center;
   width: 100%;
-  position: absolute;
-  bottom: 0;
-  height: 80px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  padding: 3em;
+  margin-top: auto;
 
   .footer-text {
     font-weight: 400;
