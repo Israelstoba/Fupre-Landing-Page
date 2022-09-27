@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40px" height="40px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40 40"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#4D2D7E}
+    .fil3 {fill:white}
+    .fil2 {fill:white}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M9 6l22 0 0 28 -22 0 0 -28z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="40" height="40"/>
+  <circle class="fil1" cx="20" cy="20" r="19"/>
+  <g id="_2366345194368">
+   <g style="clip-path:url(#id0)">
+    <image x="9" y="6" width="22.9611" height="28.0517" xlink:href="circle_arrow_down_Images\circle_arrow_down_ImgID1.png"/>
+   </g>
+  </g>
+  <path class="fil2" d="M20 7l0 0c1,0 2,1 2,2l0 12 0 0 0 6 5 -4c0,-1 2,-1 2,0l0 0c1,0 1,1 1,2l-9 7c0,0 0,0 0,0l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -9 -7c0,-1 0,-2 1,-2l0 0c0,-1 2,-1 2,0l5 4 0 -6 0 0 0 -12c0,-1 1,-2 2,-2z"/>
+  <rect class="fil3" transform="matrix(0.760109 0.649795 -0.324898 0.380055 87.0541 -36.7945)" width="3.59417" height="32.3439" rx="2" ry="2"/>
+  <rect class="fil3" transform="matrix(0.760109 0.649795 -0.324898 0.380055 87.0541 -36.7945)" width="3.59417" height="32.3439" rx="2" ry="2"/>
+ </g>
+</svg>

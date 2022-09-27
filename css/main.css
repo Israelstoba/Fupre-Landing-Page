@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Nunito:wght@700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  color: #555d;
+  font-family: "Happy Monkey", cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.col-2 {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+  min-width: 300px;
+}
+
+.navbar {
+  width: 100%;
+  height: auto;
+  padding: 0.5rem 2rem;
+  background-color: #fff;
+}
+
+.nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.nav .nav-ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav .nav-ul .nav-ul-li {
+  list-style-type: none;
+  margin-right: 2rem;
+}
+
+.logo-container {
+  width: 130px;
+}
+
+.logo-container .logo {
+  width: 100%;
+}
+
+#hero {
+  padding: 2rem;
+  text-align: center;
+}
+
+#hero .hero-title {
+  font-size: 4.5rem;
+  color: tomato;
+  font-family: "Happy monkey", cursive;
+  margin: 2rem 0;
+}
+
+#hero .hero-text {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.large-container {
+  max-width: 1080px;
+  margin: auto;
+  padding: 0 2rem;
+}
+
+.footer {
+  background-color: tomato;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer .footer-text {
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+/*# sourceMappingURL=main.css.map */
